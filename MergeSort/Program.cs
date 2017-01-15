@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 /// <summary>
-/// Реализуйте сортировку слиянием для массива целых чисел.
+/// Реализуйте сортировку слиянием для массива целых чисел. 
 /// </summary>
 namespace MergeSort
 {
